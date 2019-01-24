@@ -1,0 +1,47 @@
+﻿body {
+    font-family: "Segoe UI";
+}
+
+.table {
+    font-family: "Segoe UI";
+    text-align: center;
+}
+
+.h1 {
+    font-family: "Segoe UI";
+}
+
+.auto-style3 {
+    width: 38%;
+    height: 58%;
+    
+}
+
+.auto-style4 {
+    font-size: small;
+    
+}
+
+
+.imageStyle {
+    width: 406px;
+    height: 369px;
+    float: right;
+}
+
+.templbl {
+    height: 51px;
+}
+
+.thermometer {
+    width: 385px;
+    height: 356px;
+    float: left;
+}
+.tablestyle {
+    width: 398px;
+    height: 219px;
+    margin-left: 0px;
+}
+
+
